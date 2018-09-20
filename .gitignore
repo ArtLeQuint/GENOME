@@ -1,0 +1,16 @@
+.metadata/
+.recommenders/
+.idea/
+out/
+GENOME/GENOME\.iml
+bin/
+GENOME/.project
+GENOME/.classpath
+
+options\.ini
+log\.txt
+Results
+Save
+Genome
+Gene
+locker.mutex
